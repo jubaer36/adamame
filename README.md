@@ -11,7 +11,7 @@
 <sup>1</sup>University of Maryland, <sup>2</sup>Johns Hopkins University
 <br>
 
-This repository contains the code and dataset for our paper <br> **AdaMame: A Training Recipe for Adaptive Multilingual Reasoning**.
+This repository contains the code and dataset for our EMNLP 2026 paper <br> **AdaMame: A Training Recipe for Adaptive Multilingual Reasoning**.
 
 <p>
   <a href="" target="_blank" style="text-decoration:none">
