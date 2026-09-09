@@ -4,7 +4,7 @@
 
 
 <p align="center">
- <img width="922" height="296" alt="Screenshot 2026-06-07 at 2 45 17 PM" src="https://github.com/user-attachments/assets/8c12a2fb-d040-4323-aa54-f2a53fd3433c" />
+ <img width="904" height="352" alt="Screenshot 2026-09-08 at 8 23 20 PM" src="https://github.com/user-attachments/assets/d787c49c-0e05-499c-833e-f22ed33b0703" />
 </p>
 
 <a href=https://dayeonki.github.io/>Dayeon Ki</a><sup>1</sup>, <a href=https://www.cs.jhu.edu/~kevinduh/>Kevin Duh</a><sup>2</sup>, <a href=https://www.cs.umd.edu/~marine/>Marine Carpuat<a><sup>1</sup> <br>
